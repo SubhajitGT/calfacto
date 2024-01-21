@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: calfacto
+Version: 0.0.4
+Summary: Calculate factorial of a number
+Author: Subhajit Guha Thakurta
+Author-email: subhajitguha79@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+Calculate Factorial of any number

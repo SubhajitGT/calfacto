@@ -1,0 +1,7 @@
+setup.py
+calfacto/__init__.py
+calfacto/factorial97.py
+calfacto.egg-info/PKG-INFO
+calfacto.egg-info/SOURCES.txt
+calfacto.egg-info/dependency_links.txt
+calfacto.egg-info/top_level.txt
