@@ -1,1 +1,1 @@
-Calculate Factorial of any number
+Calculate Factorial of any integer number
